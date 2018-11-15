@@ -1,0 +1,70 @@
+Hotkeys activated via voice command
+www.voicemacro.net
+
+
+
+
+
+
+VC List
+
+Basic:
+
+"Block" uses basic block hotkey
+"Dodge" uses dodge hotkey
+"Parry" uses parry hotkey
+"Grass-hopper" uses jump hotkey
+"Attack" uses basic attack hotkey
+"Heal" uses a basic potion or, if applicable, casts your class's default healing spell
+
+Adv:
+"Zero" to "Nine" uses a single hotkey 0-9
+
+"Ghost" prepare to repeat a command:
+	"Double" repeat last non-mod command x2 total activation time -30% cost incr. x4
+	"Triple" repeat last non-mod command x3 total activation time -50% cost incr. x7
+	"Quadra" repeat the "Double" command twice total activation time -75% cost incr. x10
+	Skills modified by ghost have costs increased but their activation sequence is sped up and changed into a channeled ability
+
+"Boost" prepare to amplify an ability:
+	"Double" modded skill has its damage/healing/effects 200% cost increased x2
+	"Triple" modded skill has its damage/healing/effects 350% cost increased x3
+	"Quadra" modded skill has its damage/healing/effects 500% cost increased x4.5
+	
+"Hound" Deploys a clone that locks on to a single target and repeatedly uses a single hotkey for a limited duration or until destroyed or the target is destroyed/defeated.
+
+"Ultra" uses specialty skills
+
+Pro:
+Pro commands are basic commands with accurate timing.
+These lead to skill combos and counters. If a basic skill is used within .5 second of  a trigger skill, either a counter, reversal or a combo will take place. Reversals will stack until one side lands a hit and gains a 200% damage multiplier per stack on each player/npc. 
+Boosting an attack ability drops your defense for 3 seconds and vice versa
+
+Counter 200% damage multiplier Attack < Block
+Riposte  200% damage multiplier and removes opponent's wepaon Attack/Block < Parry
+Upperhand 150% damage multiplier and increases evasion for 3 seconds Attack < Dodge
+Reversal 400% damage multiplier + 200% per reversal stack
+Tangle both parties lose 10% of current health when using the same basic skill within .3seconds of one another, excluding Attack. 
+Parry < Parry/Dodge < Dodge/Block < Block/Parry < Dodge
+
+Combat
+Example:
+[00:00:23]Player X: Attack
+[00:00:70]Player Z: Block
+[00:00:85]Server: Player Z performed a counter!
+[00:01:19]Player X: Parry
+[00:01:34]Server: Player X preformed a reversal!(countered a counter)
+[00:01:70]Player Z: Dodge
+[00:01:85]Server: Player Z was unable to escape the reversal!
+
+VC Syntax
+
+Modifier|Skill|Modifier
+
+Modifiers arent required for skill useage.
+
+W/ Mod;
+"Boost"+"Two"+"Triple" = whatever is attached to the "Two" hotkey will have its effects and cost amplified 350%
+
+w/o mod;
+"Two"

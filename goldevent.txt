@@ -1,0 +1,29 @@
+I thought another way of tackling inflation would be an event. Lets say the total server gold reaches a 5 to 1 ratio. Meaning the inflation has driven prices up to 5x there original value. This has made monsters all over the world rather envious. So now they begin to constantly raid towns wreaking havoc; robbing banks, burning buildings, pillaging towns, etc. A global gold reduction of 20% of what you own is "taxed" to maintain the realm. In return event bosses/factions are spawned. "The Greedy Goblin Brotherhood", "Pirate Lords" all these bosses arise due to their newfound wealth. After getting a taste, of said wealth, they are keen to return for more until they are hunted and destroyed. Also these bosses have timers. If ignored, an additonal 20% gold will be "taxed" from the player base. The bosses/tribes would be thoroughly sated until the server gold reaches the limit again. 
+
+Give the boss loot tables some nice shinies as this event won't come too frequently. You can check the server gold counter at an npc in the bank. A server wide message should inform players when the limit is within 10% and every percent after that. This will give players ample time to prepare.
+
+Items purchased from shops for gold will reduce the counter accordingly. This will destroy inflation in a fun way. It discourages hoarding large sums of gold, encourages item trading, and item puchasing. People can postpone the event by dumping their gold into shops, offering generous donations to towns for a minor-moderate increased rep gain, exp for hunting in the area, etc. Towns will have a donation limit as well. They will offer a server wide buff or townwide buff and reset. It'll also stabilize the enconomy, making setting shop prices easier and lessening the need for multiple currencies. This counter can be checked in pubs. Where you spend your gold would now actually matter, in the grand scheme of things. You could even take things further and offer guild buffs for gold. The demand for gold will be high, it's supply limited but it will be cycling at a rate so fast it won't matter. This will also keep players hunting mobs constantly for gold.
+
+
+Its also a nice way to jam up gold farmers. You kill there business with the low level cap, and limited gold supply. You could have the counter for server gold, and event boss dofficulty, scale according to accounts active within a fixed time frame.
+
+Intelligent economics.
+
+Thoughts and opinions are welcome.
+
+
+
+Voiced Concern:
+This will just encourage people to hoard gold!
+
+Response: 
+It would be impossible to hoard gold. Due to the 20% sink when server gold limit is reached. Also purchasing items from shops for gold reduces the gold counter by the amount spent. We also control the cap. The purpose of the bonus content is to make a painful system(20% global tax, 40% if ignored) rather entertaining. It allows the DEVs to regulate the maximum amount of gold in the system while providing an explanation and entertainment. So you can try to hoard gold it'll never work. The event is just a mask for the mechanic.
+
+Also i do see what you mean by people being more reluctant to spend their gold. Yet at the same time they'd be compelled to farm more monsters for it. Meaning the cap will be reached for a sink eventually. However, this won't hinder trade between players, since the gold counter won't change when its exchanged between players. It will encourage more item bartering too as well. The gold maintains its value because it is finite. Right now, hypothetically speaking, you could farm billions of gold. This destroys any value it has over time through inflation.
+
+
+Voiced concern:
+
+
+
+

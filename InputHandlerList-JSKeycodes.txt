@@ -1,0 +1,42 @@
+keycodes for handling input
+
+movement
+
+left arrowkey = 37 or A = 65
+up arrowkey = 38 or W = 87
+right arrowkey = 39 or D = 68
+down arrowkey = 40 or S = 83
+
+hotkeys for skills/abilities
+
+hk1 = 49
+hk2 = 50
+hk3 = 51
+hk4 = 52
+hk5 = 53
+hk6 = 54
+hk7 = 55
+hk8 = 56
+hk9 = 57
+hk10 = 48
+hk11/Q = 81 
+hk12/E = 69
+hk13/R = 82 
+hk14/F = 70 (default potion hotkey)
+Spacebar = 32 (Jump)
+~ = 192 (Loot from local containers) 
+
+menus
+
+C = 67 (CharacterSheet toggle)
+P = 80 (Party Menu Toggle)
+I = 73 (Friend's List Menu Toggle)
+B = 66 (Bag/Backpack Toggle)
+K = 75 (Skills and Abilities Menu Toggle)
+L = 76 (Quest Menu Toggle)
+G = 71 (Guild Menu Toggle)
+U = 85 (Crafting Menu Toggle) 
+O = 79 (Options toggle)
+M = 77 (Map toggle)
+N = 78 (Traits and Quirks Menu Toggle)
+

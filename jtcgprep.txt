@@ -1,0 +1,16 @@
+Game scenario
+
+All players start out with nothing but their player character.
+Their are 5 decks total. Resource(p1), Battle(p3), Discovery(p2), Chaos(p5), and Monster(p2(basic) & p4(elite)).
+
+100 resource cards
+
+
+Roll the dice to see who goes first
+
+First player then selects a character piece
+
+after everyone has taken control of their character piece, player one rolls the dice
+and moves to the corresponding spot. If it is an event box; pull a card from the event deck read it aloud then place it in the discard pile. Then follow the directions on the card.
+
+IF it is a 

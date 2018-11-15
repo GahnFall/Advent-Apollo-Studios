@@ -1,0 +1,55 @@
+175 days to complete
+
+code: 
+AtlasGenie(holds an array of objects that each represent one 32*32 tile in a grid of x tiles; some containing unique features based on 1 tile type or 2 simultaneous tile types(collision, or collision+, choppable,or minable,or gatherble, farmable flags)), 
+
+Genierator(Handles Game Loading functions 
+Login Screen: a form with...
+2 boxes: account name, password 
+4 buttons:
+Register(on mouseover it will highlight register txt, on click it will open another page and load the account sign-up page),
+
+Login(on mouseover it will highlight "Login" txt, onclick it with emit an event via MessenGenie to take the form data from account box and tell the JudgeGenie to check for a match in the account database, then return it's findings, if there is no match display bubble message "please contact support if this issue continues or try registering your account first", if there is a grab data from password box from the login form and ask the JudgeGenie to check if it matches with the same data in the account match made earlier, if it passes, instruct the Genierator to load the Character Selection Screen),
+
+Forgot(on mouseover it will highlight "Forgot" text and display a bubble message "Forgot Password?" and on mouseout it will close the bubble message, on click it will open another page and load the account recovery page or customer support page), 
+
+Exit(closes the game window)
+,
+
+Character Creation and Select Screens:
+
+4 buttons that either instruct the the Genierator to load a form with radiobutton inputs that ), Game(Health,Exp, Stam, backpack, map, hotbars,runebar, chat, load and close menus for skills, character, logout, backpack, map, hotbars, runebar)), 
+client side movement players,
+movement npcs,
+movement monsters,
+monster spawn system,
+monster spawn locations,
+Client-Sever communications(event emitter and listener functions to convey necessary data between client and server(login server)),
+update loop for client:
+PlayerStats,
+PlayerPositionData,
+PlayerPassiveEffects,
+PlayerStatus,
+PlayerCooldownz,
+GenieNetwork(All relevant data passed from Genies to client),
+
+
+update loop for server;
+FarmingGenie(Handles all Farming event emissions),
+SpyingGenie(Handles all Player, NPC, and Monster movement event emissions),
+TimeGenie(Handles all time event emissions made by Players,NPCs,Monsters,and Objects: mostly buffs, dots, and debuffs),
+BattleGenie(Handles all combat event emissions made by Players,NPCs,Monsters, and Objects),
+JudgeGenie(Handles account data),
+
+),
+
+Art:
+Male and Female Player basic attack animations,
+Female Player Movement,
+4 basic crop types with 4 stages of growth: planted, seedling, blooming/flowering/blossoming, Harvestable,
+farm plot, 
+3 types of bushes,
+2 types of flooring,
+2 types of road,
+Mapping:
+everything except maybe grass

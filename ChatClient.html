@@ -1,0 +1,52 @@
+<html>
+<head>
+
+<script>
+console.log("Loading chat..");
+var UzerDB = [];
+console.log("creating user list..")
+var userCounter = 5;
+
+var creUzer = function(usC){
+this.usC = usC;
+this.Uzer = {
+ID: usC + Math.floor(Math.random()*(usC/50)),
+Name:prompt("Enter a user name."),
+}
+userCounter+=1;
+return UzerDB.push(Uzer);
+}
+creUzer(userCounter);
+console.log(UzerDB);
+console.log(userCounter);
+var chatMessages = [];
+
+document.getElementById('chatMsgsOn').innerHTML = chatMessages;
+
+
+var sChatMsg = function(msgTxt,userName){
+
+this.UserName = userName;
+this.msgTxt = msgTxt;
+this.Msg = UserName+": "+msgTxt;
+chatMessages.push(Msg);
+};
+sChatMsg("Hmmm i suppose its working now eh?", "DEV Apollo");
+
+</script>
+</head>
+<body>
+<div id="chatBox">
+<div id ='chatMsgs'>
+<textarea id='chatMsgsOn'rows="4" cols="50">
+</textarea> 
+</div>
+<form name="UsrInput" id="UzerInput">
+<textarea id="chatMsgsIn" rows="1" cols="50"></textarea>
+<input type="button" onClick="sChatMsg(document.getElementById('chatMsgsIn').innerHTML,"Tstr")" />
+</form>
+</div>
+
+
+</body>
+</html>

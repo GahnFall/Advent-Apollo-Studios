@@ -1,0 +1,43 @@
+Quest Checklist
+
+
+
+Name: // quest title or quest series title
+
+Location: // Area the quest is found in
+
+NPC(quest giver): // The npc or object giving the quest
+
+Chain(Yes/No): // Is it a single quest or a chain quest
+
+if Yes; total quest count: // how many quests are in the chain
+
+Quest text: // details of quest that you want a player to see is written here
+
+Main objective:
+complete sub-objectives to progress questline unto completion
+Sub-objectives(x):
+Defeat // defeat (x) amount of (y)
+Gather // collect (x) amount of (y)
+Capture // apprehend npc(x)
+Race // reach checkpoint(s) before alloted time(x) and or cross the finish line before opponents
+Socialize // speak to npc(x)
+Steal // snatch item/s (x) from (y)
+Stealth // avoid all npc/monster aggression to aquire an item or perform a task
+Protect // stop (y) from being defeated/destroyed until (x) is reached
+Assist // work with npc(x) to complete a task or group of tasks together
+Craft // create (x) amount of item(x)
+Investigate // inspect target area
+Escort // take npc(x) to (y) while keeping them alive
+Deliver // take (x) amount of item(y) to target location or npc
+Interrogate // question npc(x) using various methods to obtain item (x)=(information)
+
+Key Items: // Items required to progress within the quest
+
+Reward:
+XP | // Gain Experience (Flat amount + (baseLevel * 20))
+Money | // Gain Currency (Flat amount + (baseLevel * 20))
+Items | // Gain (x) amount of item(y) or gain item(z) 
+Skills | // Gain skill(x) or tempAbility(x)
+Attributes | // gain stat(x) or trait(y)
+Map Unlock/Progression | // gain access to restricted area (x)

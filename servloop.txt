@@ -1,0 +1,15 @@
+Server Loop
+
+Load:
+Maps - Load all game maps
+NPCs - load all NPCs
+Monster Spawn - load all monsters
+Shop Items/ World Objects - load all shop data and spawn world objects
+Crafting Resources - load spawn data for resource nodes
+SavedPlayerData - load character data from last server loop update
+
+Update:
+	PlayerData:
+		Location| x, y, and z coordinates| Updates every 1000/30ms
+		Status Ailments|Player>NPC>Monster | Updates when called
+		Stats| Character Stats, Character Equipment, Backpack| Updates when called

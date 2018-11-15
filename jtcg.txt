@@ -1,0 +1,110 @@
+Board Game Check List
+
+Target Market: Family & Friends; Ages 8+
+Amount of players: 2-10,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000
+Amount and type of cards: 
+
+Resource Card; Wood, Stone, Metal
+
+Combat Card Types;
+
+Stat Calc; 
+1 Attack = .5 heart damage
+1 Defense = absorbs .25 heart damage per attack
+1 Heart = 100 hp
+
+Basic Combat Cards
+ Attack Cards (Deal damage to an enemy based on your attack stat or use a skill card)
+ Defense Cards (Block or mitigate damage based on current defense stat or use a skill card)
+
+
+Combat Training Cards
+
+Weapons Training (+2att +1hearts), 
+Armor Training(+3def +1hearts),
+Endurance Training(+3 hearts) 
+
+Combat Utility Cards
+Support(speed up building/crafting by 1 turn)
+Recover(Heal for 5x your dice roll)
+
+Craft Card Types; 
+
+Offensive; 
+Weapons(vs Monsters & Characters) and War Machines(vs Structures)
+Defensive; Armors(vs M&C) and Fortifications (vs War Machines)
+Utility; Tools(Crafting) and Potions(Combat)
+
+Skill Card; 
+Single Target; damage, healing, debuff, buff 
+Area of Effect; damage, debuff
+Passive; stat boosts and utility
+
+Wager Card; 
+	    Gamble: Good(+5)[Dice Roll 1 or 6, 
+		    Bad(-1)[Dice Roll 5 or 3], 
+		    Ugly(-3) [Dice roll 2 and 4]
+	    
+	    Barter: Discard (x) amount of cards in your possesion, pull (x) resource cards. If more than 4 cards are 		    discarded, roll the dice 
+
+Good roll = Pull 2 extra resource cards
+Bad roll = Skip your next 2 turns
+Ugly roll = return all resource cards you pulled this turn, shuffle the deck and skip your next turn
+
+
+
+Structure Card; Shelter(2-5 Hearts), 
+		House(12-15 Hearts), 
+		Castle(30-50 Hearts 1 Passive Slot), 
+		Fortress (75-120 Hearts 2 Passive Slots)
+
+Amount and type of game pieces:
+Structures, 
+Characters of Influence/Renown, 
+Pawns & Pesants, 
+Bosses
+
+
+Amount and type of Piles:
+Recycle; these go back into the Resource after your turn
+Discard; these go back to the Event Deck after a full player cycle
+
+Resource; contains all resource and wager cards
+Battle; contains all combat cards and skill
+
+Discovery; contains all craft cards and structure
+Recruit; contains all character and worker cards
+
+Bread n Butter:
+Monster Waves; each full player cycle, monster damage increases, elites spawn
+Board Events; each slot on the board has 4 types of possible events [Common][Rare][Special][???](??? events have a chance to be [Ground Breaking] events)
+3rd Phase PvP; Other players may attack one another once they have reached the 3rd Phase of the game
+
+5 Phase gameplay
+
+Each Phase a piece of the main deck will be added
+
+Phase 1:Gathering [Resource Deck]
+
+In this phase of the game players will be focused on pulling cards to build their resources up so they can begin crafting. Wager cards may speed this phase up.
+
+Phase 2:Building [Discovery Deck][Monster Deck B]
+In this phase players will be focused on building the structures with whatever offensive and defensive capabilities. Usually monsters have begun to spawn in this phase.
+
+Phase 3:PvP Enabled [Battle Deck]
+
+
+In this phase players have structures built and are hungry for skill cards. Wager Cards could make or break a person in this phase.
+
+Phase 4:Elites Unleashed [Chaos Deck][Monster Deck A]
+
+
+Phase 5: Random World/Mini Boss Spawn [Monster Deck S: Hellbound]
+
+
+The game can end in a few ways;
+King of the Mountain - When there is only 1 player left, then that player is announced the winner.
+Razed to the ground - When the World Boss has defeated 1/3rd of the game population(players)
+Waved the white flag - When 2/3rds of the enemy agree to surrender.
+Finite resources depleted - When any deck runs out of cards AND the discard n recycle piles are empty.
+
