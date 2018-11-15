@@ -1862,12 +1862,12 @@ iStatLvlreq:[10,50,0,0],    //STR,DEX,INT,CON
 iMinDmg:16,
 iMaxDmg:28,
 iMinAttSpd:3500, // Slowest possible weapon speed
-iBaseAttSpd:,
-iMaxAttSpd:500, AttScope:[1,0], // fastest possible weapon speed | AttScope 1 = 32px/1tile  2: 64px/2tile etc..
+iBaseAttSpd:1500,
+iMaxAttSpd:500, AttScope:[18,0], // fastest possible weapon speed | AttScope 1 = 32px/1tile  2: 64px/2tile etc..
 iStat1:[0,0,0,0], //STR,DEX,INT,CON
 iStat2:[0,0,0,0], //STR,DEX,INT,CON
-iAdvStat1:[0,0,0,0,0,0], //MELEE CRIT, CRITDMG, HIT, BLOCK, MANABOLT, REPLENISH
-iAdvStat2:[0,0,0,0,0,0], //SPELLS  CRIT, CRITDMG, HIT, BLOCK, MANABOLT, REPLENISH
+iAdvStat1:[0,0,2,5,0,0], //MELEE CRIT, CRITDMG, HIT, BLOCK, MANABOLT, REPLENISH
+iAdvStat2:[0,0,0,5,0,0], //SPELLS  CRIT, CRITDMG, HIT, BLOCK, MANABOLT, REPLENISH
 iSpecStat:[0,0,0,0,1], // the number here in iSpecStat[0] corresponds to 0: normal, 1: on-block, 2: on-dmgtaken, 3: on-dodge, 4: on-parry, 5:on-hit... effects linked to the weapon or armor iSpecStat[1] is the unique spell ID of the spell being callled when the condition has been met iSpecStat[2] is the value added to the roll that checks to see if the the spell should be cast iSpecStat[3] is the value added to the damage or healing roll when determining its spell force
 iPlusLvl:0, iElement: "Normal",
 iDura:500, Runeslots:0,
